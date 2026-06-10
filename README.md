@@ -6,7 +6,7 @@ This is the first main iteration of this project. Attached are stl's for commonl
 3. Cable Clamp Bottom - The bottom half of the part that clamps the cable which adapts to the dock
 4. Under-desk Cable Holders - Takes away the sling in cable past the dock, ensures that cables can be pulled out and pushed in easily while not hanging down and getting in the way
 
-Onshape Link - https://cad.onshape.com/documents/bded3418c845e3d3e694a83c/w/54a69e278a26f42aafabfe97/e/2d39a76053113b0585051234?renderMode=0&uiState=6a28ba6acf1735593d3a85cf
+Onshape Link - https://cad.onshape.com/documents/bded3418c845e3d3e694a83c/w/54a69e278a26f42aafabfe97/e/2d39a76053113b0585051234?renderMode=0&uiState=6a28c1cbcf1735593d3ad995
 
 Hardware needed to create this:
 6x2mm Neodymium Magnets - Quantity = 2 per each cable docked

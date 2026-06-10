@@ -16,10 +16,10 @@ Some double sided tape or Velcro to attach to desk and to the docking system
 
 Instructions:
 
-Print a docking station as well as enough top and bottom cable clamps to fill your docking stations. Optionally, you can print the under-desk cable holders to keep your cable held close to your desk instead of slacking down right out of the dock.
-Add a dab of hot glue or super glue into the circular pockets found in the dock and the bottom cable clamps.
-Place magnets in the ciruclar pockets found in the dock and the bottom cable clamps so that they attract when they are next to eachother. (Opposite poles touching when dock)
-Using a soldering iron or heat threaded insert tool, press your heat threaded inserts into the bottom of the bottom cable clamps.
-Clamp your cables using a top and bottom cable clamp and screw them together using your M2 screws.
-Use double sided tape or Velcro to secure your cable dock and under-desk cable holders to the underside of your desk where you want them.
-Feed your cables through the cable holders and dock your cables in your new under-desk cable dock
+1. Print a docking station as well as enough top and bottom cable clamps to fill your docking stations. Optionally, you can print the under-desk cable holders to keep your cable held close to your desk instead of slacking down right out of the dock.
+2. Add a dab of hot glue or super glue into the circular pockets found in the dock and the bottom cable clamps.
+3. Place magnets in the ciruclar pockets found in the dock and the bottom cable clamps so that they attract when they are next to eachother. (Opposite poles touching when dock)
+4. Using a soldering iron or heat threaded insert tool, press your heat threaded inserts into the bottom of the bottom cable clamps.
+5. Clamp your cables using a top and bottom cable clamp and screw them together using your M2 screws.
+6. Use double sided tape or Velcro to secure your cable dock and under-desk cable holders to the underside of your desk where you want them.
+7. Feed your cables through the cable holders and dock your cables in your new under-desk cable dock
